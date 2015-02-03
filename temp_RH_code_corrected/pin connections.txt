@@ -1,0 +1,4 @@
+DHT22 (7)
+LM35 (A0)
+DS1302 (2, 3, 5) (RST, I/O, SCK)
+BMP180 (A4, A5), (SDA, SCL)
